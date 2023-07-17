@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 29th march 2003
     - name: Languages
-      value: Native dutch, English, French
+      value: Native Dutch, English, French
 
 - title: Education
   type: time_table
