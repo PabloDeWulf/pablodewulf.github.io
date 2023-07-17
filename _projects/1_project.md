@@ -6,19 +6,8 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 ---
-In my second year engineering my friends and I recieved the task to make a autonomous stairs climbing robot.
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In my second year engineering my friends and I recieved the task to make an autonomous stairs climbing robot. This was by far one of the most fun projects I had done so far. 
+Here's some insight how we handled this project. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,8 +25,8 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {<iframe width="420" height="315"
-            src="https://www.youtube.com/watch?v=eLEpXuifAUI&t=106s&ab_channel=Pablo"> </iframe>}
+        {%<iframe width="420" height="315"
+            src="https://www.youtube.com/watch?v=eLEpXuifAUI&t=106s&ab_channel=Pablo"> </iframe>%}
     </div>
 </div>
 <div class="caption">
