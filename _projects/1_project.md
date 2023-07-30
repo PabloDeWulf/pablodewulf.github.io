@@ -25,8 +25,7 @@ Here's some insight how we handled this project.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="420" height="315"
-            src="https://www.youtube.com/watch?v=eLEpXuifAUI&t=106s&ab_channel=Pablo"> </iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
