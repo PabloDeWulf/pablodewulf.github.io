@@ -24,6 +24,12 @@ Here's some insight how we handled this project.
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
+<style>
+    .col-sm mt-3 mt-md-0{
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+    }
     <div class="col-sm mt-3 mt-md-0">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
