@@ -4,7 +4,7 @@ title: Stairs climbing robot
 description: Second year engineering project
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: University projects
 ---
 In my second year of engineering my friends and I recieved the challenge to build an autonomous stairs climbing robot. Here's some insight into how we handled this project. 
 
