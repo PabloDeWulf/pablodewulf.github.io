@@ -6,8 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 ---
-In my second year engineering my friends and I recieved the task to make an autonomous stairs climbing robot. This was by far one of the most fun projects I had done so far. 
-Here's some insight how we handled this project. 
+In my second year of engineering my friends and I recieved the challenge to build an autonomous stairs climbing robot. Here's some insight into how we handled this project. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,11 +20,11 @@ Here's some insight how we handled this project.
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    These 3 photos
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
