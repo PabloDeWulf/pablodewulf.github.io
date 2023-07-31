@@ -32,13 +32,13 @@ body.sticky-bottom-footer {
     width: 100%;
   }
 }
-.container {
+.row {
   position: relative;
   width: 100%;
   padding-top: 56.25%;
 }
 
-.container > iframe {
+.row > iframe {
   position: absolute;
   top: 0;
   left: 0;
