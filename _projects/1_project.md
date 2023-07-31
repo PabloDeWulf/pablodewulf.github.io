@@ -26,21 +26,7 @@ In my second year of engineering my friends and I recieved the challenge to buil
     <div class="container">
     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<style>
-  .container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%;
-  }
 
-  .container>iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
 
 </div>
 <div class="caption">
