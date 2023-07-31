@@ -23,7 +23,7 @@ In my second year of engineering my friends and I recieved the challenge to buil
     These 3 photos
 </div>
 <div class="row">
-    <div class="container">
+    <div class="col-sm mt-3 mt-md-0">
        <iframe class="responsive-iframe" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
