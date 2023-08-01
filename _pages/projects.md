@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Swaggy swag.
+description: List of projects
 nav: true
 nav_order: 2
 display_categories: [University projects, fun, work]
