@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Sound tuner
+description: Second year engineering project
 img: assets/img/elekcover.jpg
 importance: 2
 category: University projects
