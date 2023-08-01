@@ -25,7 +25,7 @@ In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub
     height: 100%;
   }
 </style>
-
+</div>
 <div class="caption">
 
 </div>
