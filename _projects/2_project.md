@@ -29,7 +29,7 @@ In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub
 <div class="caption">
 
 </div>
-&nbsp;
+
 This project was a challenging yet rewarding experience. Initially, we faced uncertainties while working with a microcontroller and using the MPLAB programming environment. However, as we progressed, we grasped the basics and delved into valuable learning experiences, particularly in communication between Python and microcontrollers and utilizing Fourier transformation for sound analysis. Overall, an enriching journey.
 
 <div class="row justify-content-sm-center">
