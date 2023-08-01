@@ -6,8 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: University projects
 ---
-In my second year of engineering my friends and I recieved the challenge to build an autonomous stairs climbing robot. Here's some insight into how we handled this project. 
-
+In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I recieved the challenge to build an autonomous stairs climbing robot. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -20,11 +19,12 @@ In my second year of engineering my friends and I recieved the challenge to buil
     </div>
 </div>
 <div class="caption">
-    These 3 photos
 </div>
+Here's some insight into how we handled this project. 
+
 <div class="row">
     <div class="container" id="yt-frame">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen id="test"></iframe>
+  <iframe class="responsive-iframe" src="https:    //www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen id="test"></iframe>
 </div>
 <style>
   #yt-frame {
@@ -43,15 +43,12 @@ In my second year of engineering my friends and I recieved the challenge to buil
 
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+This project has undoubtedly been one of the most enjoyable experiences I have undertaken thus far. Through this experience, I gained valuable insights into efficient work practices and developed my collaborative abilities by working closely with fellow students. Additionally, I had the opportunity to enhance my proficiency in utilizing [Arduino](https://www.arduino.cc/), a valuable skillset for future use.
 
 
-<div class="row justify-content-sm-center">
+<!-- <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -61,10 +58,10 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+</div> -->
 
 
-The code is simple.
+<!-- The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
@@ -80,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
