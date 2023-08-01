@@ -12,7 +12,20 @@ In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub
     <div class="container" id="yt-frame">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/rNNYOoC7eEs" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen id="test"></iframe>
 </div>
-
+<style>
+  #yt-frame {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+  }
+  #yt-frame>iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
 <div class="caption">
 </div>
 
