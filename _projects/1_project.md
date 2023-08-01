@@ -19,12 +19,12 @@ In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub
     </div>
 </div>
 <div class="caption">
-lol
+
 </div>
 Here's some insight into how we handled this project. 
 <div class="row">
     <div class="container" id="yt-frame">
-  <iframe class="responsive-iframe" src="https:    //www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen id="test"></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/eLEpXuifAUI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen id="test"></iframe>
 </div>
 <style>
   #yt-frame {
@@ -43,13 +43,13 @@ Here's some insight into how we handled this project.
 
 </div>
 <div class="caption">
-loll
+
 </div>
 
 This project has undoubtedly been one of the most enjoyable experiences I have undertaken thus far. Through this experience, I gained valuable insights into efficient work practices and developed my collaborative abilities by working closely with fellow students. Additionally, I had the opportunity to enhance my proficiency in utilizing [Arduino](https://www.arduino.cc/), a valuable skillset for future use.
 
 
-<div class="row justify-content-sm-center">
+<!-- <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
