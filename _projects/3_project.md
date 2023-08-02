@@ -7,7 +7,7 @@ importance: 3
 category: University projects
 ---
 
-In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I recieved the challenge to build a scale cable stayed bridge and put it to the test. Here's a video summarising the whole thing:
+In my second year of engineering at the [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I recieved the challenge to build a scale cable stayed bridge and put it to the test. Here's a video summarising the whole thing:
 
 <div class="row">
     <div class="container" id="yt-frame">

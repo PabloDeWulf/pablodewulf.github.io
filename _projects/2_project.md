@@ -6,7 +6,7 @@ img: assets/img/elekcover.jpg
 importance: 2
 category: University projects
 ---
-In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I recieved the challenge to build something creative with a pingpongball, a tube and a ventilator. We came up with a soundtuner? Watch how it works, well kinda...
+In my second year of engineering at the [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I recieved the challenge to build something creative with a pingpongball, a tube and a ventilator. We came up with a soundtuner? Watch how it works, well kinda...
 
 <div class="row">
     <div class="container" id="yt-frame">
