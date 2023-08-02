@@ -7,7 +7,7 @@ importance: 3
 category: University projects
 ---
 
-In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I recieved the challenge to build a scale cable stayed bridge and put it to the test. Here's a video summarising the hwole thing:
+In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I recieved the challenge to build a scale cable stayed bridge and put it to the test. Here's a video summarising the whole thing:
 
 <div class="row">
     <div class="container" id="yt-frame">
@@ -29,7 +29,9 @@ In my second year of engineering at [Vrije Universiteit Brussel](https://www.vub
 </style>
 
 </div>
-
+<br>
+Pretty cool design, right?
+<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/brug1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
