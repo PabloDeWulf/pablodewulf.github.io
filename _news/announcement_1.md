@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Checkout my youtube channel!
+Check out my youtube channel through the link below!
