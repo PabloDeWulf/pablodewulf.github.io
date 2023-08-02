@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stair-climbing robot
-description: Second year engineering project
+description: Second year engineering project (90%)
 img: assets/img/robotcover.jpg
 importance: 1
 category: University projects
@@ -40,10 +40,6 @@ I put together a youtube video explaining the whole thing:
     height: 100%;
   }
 </style>
-
-</div>
-<div class="caption">
-
 </div>
 
 This project has undoubtedly been one of the most enjoyable experiences I have undertaken thus far. Through this experience, I gained valuable insights into efficient work practices and developed my collaborative abilities by working closely with fellow students. Additionally, I had the opportunity to enhance my proficiency in utilising [Arduino](https://www.arduino.cc/), a valuable skillset for future use.

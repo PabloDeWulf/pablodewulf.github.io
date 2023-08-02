@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sound tuner
-description: Second year engineering project
+description: Second year engineering project (75%)
 img: assets/img/elekcover.jpg
 importance: 2
 category: University projects
