@@ -41,5 +41,14 @@ I put together a youtube video explaining the whole thing:
   }
 </style>
 </div>
-
+<br>
 This project has undoubtedly been one of the most enjoyable experiences I have undertaken thus far. Through this experience, I gained valuable insights into efficient work practices and developed my collaborative abilities by working closely with fellow students. Additionally, I had the opportunity to enhance my proficiency in utilising [Arduino](https://www.arduino.cc/), a valuable skillset for future use.
+<br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/robot4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/robot5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
