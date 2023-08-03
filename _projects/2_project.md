@@ -26,7 +26,7 @@ In my second year of engineering at the [Vrije Universiteit Brussel](https://www
   }
 </style>
 </div>  
-<br>
+<br\>
 
 This project was a challenging yet rewarding experience. Initially, we faced uncertainties while working with a microcontroller and using the 
 [MPLAB](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) programming environment. However, as we progressed, we grasped the basics and delved into valuable learning experiences, particularly in communication between [Python](https://www.python.org/) and microcontrollers and utilizing Fourier transformation for sound analysis. Overall, an enriching journey.  
