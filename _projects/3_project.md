@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scale bridge
-description: Second year engineering project (90%)
+description: Second year engineering project
 img: assets/img/brugcover.jpg
 importance: 3
 category: University projects

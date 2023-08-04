@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stair-climbing robot
-description: Second year engineering project (90%)
+description: Second year engineering project
 img: assets/img/robotcover.jpg
 importance: 1
 category: University projects

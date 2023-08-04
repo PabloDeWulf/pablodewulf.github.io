@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Sound tuner
-description: Second year engineering project (75%)
+description: Second year engineering project
 img: assets/img/elekcover.jpg
 importance: 2
 category: University projects
 ---
-In my second year of engineering at the [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I received the challenge to build something creative with a pingpongball, a tube and a ventilator. We came up with a soundtuner? Watch how it works, well kinda...
+In my second year of engineering at the [Vrije Universiteit Brussel](https://www.vub.be/nl) my friends and I received the challenge to build something creative with a ping pong ball, a tube and a ventilator. We came up with a soundtuner? Watch how it works, well kinda...
 
 <div class="row">
     <div class="container" id="yt-frame">
