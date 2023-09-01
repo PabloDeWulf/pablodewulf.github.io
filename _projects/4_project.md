@@ -8,7 +8,7 @@ category: fun
 ---
 
 
-On the 7th of August 2023, I went on a roadtrip with Gabriel, a good friend of mine. We planned a 17 day trip through Cologne, Berlin, Dresden, Prague, Vienna, Salzburg and Munich. We stayed in hostels and took the train too each destination. I had this old camcorder and decided to film our adventure...
+On the 7th of August 2023, I went on a roadtrip with Gabriel, a good friend of mine. We planned a 17 day trip through Cologne, Berlin, Dresden, Prague, Vienna, Salzburg and Munich. We stayed in hostels and took the train to each destination. I had this old camcorder and decided to film our adventure...
 
 <div class="row">
     <div class="container" id="yt-frame">
