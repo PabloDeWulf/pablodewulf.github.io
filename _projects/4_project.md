@@ -1,24 +1,35 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: 2023 roadtrip
+description: 17 day roadtrip with a friend
 img:
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+On the 7th of August 2023, I went on a roadtrip with Gabriel, a good friend of mine. We planned a 17 day trip through Cologne, Berlin, Dresden, Prague, Vienna, Salzburg and Munich. We stayed in hostels and took the train too each destination. I had this old camcorder and decided to film our adventure. Enjoy the aftermovie! 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<div class="row">
+    <div class="container" id="yt-frame">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/qmqv0S_9258?si=1l-9R7a5MyhvJdBI" title="YouTube video player" align="middle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen id="test"></iframe>
+</div>
+<style>
+  #yt-frame {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+  }
+  #yt-frame>iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
