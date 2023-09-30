@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Pablo and I am a student at the [Vrije Universiteit Brussel](https://www.vub.be/nl). At the moment, I'm in my third year of BSc engineering. Aside from  academic stuff, I love sports. I am a track and field athlete, specialised in sprint (100m, 200m, 400m). On this website I try to present certain aspects of my life and world such that people can follow the projects I am working on and see how I am doing in general.
+Hi, my name is Pablo and I am a student at the [Vrije Universiteit Brussel](https://www.vub.be/nl). At the moment, I'm in my third year of BSc Applied Sciences and Engineering. Aside from  academic stuff, I love sports. I am a track and field athlete, specialised in sprint (100m, 200m, 400m). On this website I try to present certain aspects of my life and world such that people can follow the projects I am working on and see how I am doing in general.
