@@ -31,5 +31,5 @@ I've always wanted to make a "day in a life" video. Sooooo, I made one (it's pre
 
 </div>
 <br>
-Thats pretty much how an average day looks like for me (excluding the parties :D). We have a lot of courses so most of my days are pretty busy, and I like it that way. I still have enough time for training and seeing my friends, so I'm pretty happy with this balance. 
+That's pretty much how an average day looks like for me (excluding the parties :D). We have a lot of courses so most of my days are pretty busy, and I like it that way. I still have enough time for training and seeing my friends, so I'm pretty happy with this balance. 
 
