@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Day in a life
-description: A day in a life at the VUB
+description: A realistic day in a life at the VUB
 img: assets/img/day1.jpg
 importance: 3
 category: fun
