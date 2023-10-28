@@ -8,7 +8,7 @@ category: fun
 ---
 
 
-I've always wanted to make a "day in a life" video. Sooooo, I made one (it's pretty amateurish). Welcome to a realistic day in my life as a third year mechanical engineering student at the [Vrije Universiteit Brussel](https://www.vub.be/nl):
+I've always wanted to make a "day in a life" video. Sooooo, I made one (it's pretty amateurish). Welcome to a realistic day in my life as a third year electromechanical engineering student at the [Vrije Universiteit Brussel](https://www.vub.be/nl):
 
 <div class="row">
     <div class="container" id="yt-frame">
