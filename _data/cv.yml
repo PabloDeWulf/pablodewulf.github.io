@@ -13,7 +13,7 @@
   contents:
     - title: BSc Applied Sciences and Engineering
       institution: Vrije Universiteit Brussel, Brussel, Belgium
-      year: 2021 - 
+      year: 2021 - 2024
       description:
         - 
 
@@ -36,7 +36,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Energy
       items: 
         - 
     - title: Topic 2.
