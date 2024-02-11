@@ -36,10 +36,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Energy
+    - title: Sustainable energy
       items: 
         - 
-    - title: Topic 2.
+    - title: Space
       items:
         - 
 
