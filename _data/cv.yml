@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: BSc Applied Sciences and Engineering
-      institution: Vrije Universiteit Brussel, Brussel, Belgium
+      institution: Vrije Universiteit Brussel, Brussels, Belgium
       year: 2021 - 2024
       description:
         - 
@@ -30,7 +30,7 @@
   type: time_table
   contents:
     - title: Student representative
-      institution: Vrije Universiteit Brussel, Brussel, Belgium
+      institution: Vrije Universiteit Brussel, Brussels, Belgium
       description: BSc engineering programme council
 
 - title: Academic Interests
@@ -46,4 +46,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Track and field, videogames, creating stuff
+    - <u>Hobbies:</u> Track and field, chess, videogames, creating stuff
