@@ -14,8 +14,18 @@
     - title: BSc Applied Sciences and Engineering
       institution: Vrije Universiteit Brussel, Brussels, Belgium
       year: 2021 - 2024
-      description:
-        - 
+      description: Cum Laude (72,5%)
+
+    -title: MSc Electromechanical engineering
+      institution: Vrije Universiteit Brussel, Brussels, Belgium
+      year: 2024 - 2026
+      description: 
+        -
+    -title: MSc Mechanical engineering
+      institution: Danmarks Tekniske Universitet, Copenhagen, Denmark
+      year: 2024 - 2026
+      description: 
+        -
 
 - title: Experience
   type: time_table
