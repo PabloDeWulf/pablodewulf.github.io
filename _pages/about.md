@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: BSc Student
+subtitle: MSc Student
 
 profile:
   align: right
