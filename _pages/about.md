@@ -9,7 +9,7 @@ profile:
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Brussels </p>
+    <p> Copenhagen </p>
     <p> </p>
     <p> </p>
 
